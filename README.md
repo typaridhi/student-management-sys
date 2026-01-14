@@ -5,7 +5,7 @@ This project allows users to add student records, display all students, and sear
 
 ---
 
-## 📌 Features
+##  Features
 - Add new student details (Roll Number, Name, Marks)
 - Display all stored student records
 - Search for a student by roll number
@@ -14,7 +14,7 @@ This project allows users to add student records, display all students, and sear
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Language:** C++
 - **Concepts Used:**
   - Classes & Objects
